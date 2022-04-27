@@ -1,7 +1,10 @@
 ### Hello 👋 I'm Sulthan Raghib Fillah, but you can call me Raghib as Rafii 😊
+<span>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SulthanRaghib.SulthanRaghib" alt="Rafii Yuuki's visitor github "/>
+  <img align="center" src="https://img.shields.io/github/followers/SulthanRaghib?label=Follower&style=socialb" alt="Rafii Yuuki's follower github "/>
+</span>
 
 ### 🤩 Find me on :
-
 <a href="https://www.instagram.com/rafii_yuuki/">
   <img align="left" alt="Rafii Yuuki's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
