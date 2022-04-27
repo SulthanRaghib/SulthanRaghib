@@ -29,8 +29,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=merko&hide_langs_below=1&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SulthanRaghib&show_icons=true&theme=merko&line_height=20" alt="Rafii Yuuki's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=merko&layout=compact" alt="Rafii Yuuki's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SulthanRaghib&show_icons=true&theme=merko" alt="Rafii Yuuki's github stats"/>
 </p>
 
 <!--
