@@ -1,6 +1,4 @@
-### Hello I'm Sulthan Raghib Fillah 👋
-
-<b>you can call me, Raghib as Rafii</b>
+### Hello 👋 I'm Sulthan Raghib Fillah, but you can call me Raghib as Rafii 😊
 
 ### 🤩 Find me on :
 
@@ -20,17 +18,18 @@
 
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I'm Currently still learning programming language
-- ⚡ Fun fact: I love coffe
+- ⚡ Fun fact: I love watch anime 😁
 
 **🧰 Languages and Tools I've Learned :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=merko&layout=compact" alt="Rafii Yuuki's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SulthanRaghib&show_icons=true&theme=merko" alt="Rafii Yuuki's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=outrun&layout=compact&hide" alt="Rafii Yuuki's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SulthanRaghib&show_icons=true&theme=outrun" alt="Rafii Yuuki's github stats"/>
 </p>
 
 <!--
