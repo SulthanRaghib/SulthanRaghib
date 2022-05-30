@@ -1,4 +1,4 @@
-### Hello 👋 I'm Sulthan Raghib Fillah, but you can call me Raghib as Rafii 😊
+### Hello 👋 I'm Sulthan Raghib Fillah, but you can call me Raghib 👋
 <span>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SulthanRaghib.SulthanRaghib" alt="Rafii Yuuki's visitor github "/>
   <img align="center" src="https://img.shields.io/github/followers/SulthanRaghib?label=Follower&style=socialb" alt="Rafii Yuuki's follower github "/>
@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I'm Currently still learning programming language
-- ⚡ Fun fact: I love watch anime 😁
+- ⚡ Fun fact: I love U 😁
 
 ### 🧰 Languages and Tools I've Learned :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
