@@ -7,10 +7,10 @@
 
 ### 🤩 Find me on :
 <a href="https://www.instagram.com/rafii_yuuki/">
-  <img align="left" alt="Rafii Yuuki's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rafii Yuuki's Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sulthan-raghib-fillah-3a9973173/">
-  <img align="left" alt="Rafii Yuuki's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rafii Yuuki's Linkedin" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://github.com/SulthanRaghib">
   <img align="left" alt="Rafii Yuuki's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
