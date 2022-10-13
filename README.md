@@ -1,4 +1,5 @@
-### Hello 👋 I'm Sulthan Raghib Fillah, but you can call me Raghib 👋
+<h2 align="center"> Hello 👋 I'm Sulthan Raghib Fillah</h2>
+<h3 align="center">you can call me Raghib 👋</h3>
 <span>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SulthanRaghib.SulthanRaghib" alt="Rafii Yuuki's visitor github "/>
   <img align="center" src="https://img.shields.io/github/followers/SulthanRaghib?label=Follower&style=socialb" alt="Rafii Yuuki's follower github "/>
@@ -6,13 +7,13 @@
 
 ### 🤩 Find me on :
 <a href="https://www.instagram.com/rafii_yuuki/">
-  <img align="left" alt="Rafii Yuuki's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rafii Yuuki's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sulthan-raghib-fillah-3a9973173/">
-  <img align="left" alt="Rafii Yuuki's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rafii Yuuki's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SulthanRaghib">
-  <img align="left" alt="Rafii Yuuki's Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rafii Yuuki's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
@@ -24,12 +25,19 @@
 - ⚡ Fun fact: I love U 😁
 
 ### 🧰 Languages and Tools I've Learned :
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<div>
+
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
+<code><img height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
+<code><img height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></code>
+
+</div>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=outrun&layout=compact&hide" alt="Rafii Yuuki's github stats" />
