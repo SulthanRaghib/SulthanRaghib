@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Sulthan Raghib Fillah</h1>
+<h3 align="center">You can call me Raghib or Sulthan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthanraghib&label=Profile%20views&color=0e75b6&style=flat" alt="sulthanraghib" /> </p>
+
 # 💫 About Me:
 - 🌱 I’m currently study **STT Terpadu Nurul Fikri**
 
