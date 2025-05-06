@@ -1,65 +1,29 @@
-<h2 align="center"> Hello 👋 I'm Sulthan Raghib Fillah</h2>
-<h3 align="center">you can call me Raghib 👋</h3>
-<span>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SulthanRaghib.SulthanRaghib" alt="Rafii Yuuki's visitor github "/>
-  <img align="center" src="https://img.shields.io/github/followers/SulthanRaghib?label=Follower&style=socialb" alt="Rafii Yuuki's follower github "/>
-</span>
+# 💫 About Me:
+- 🌱 I’m currently study **STT Terpadu Nurul Fikri**
 
-### 🤩 Find me on :
-<a href="https://www.instagram.com/rafii_yuuki/">
-  <img align="left" alt="Rafii Yuuki's Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sulthan-raghib-fillah-3a9973173/">
-  <img align="left" alt="Rafii Yuuki's Linkedin" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a>
-<a href="https://github.com/SulthanRaghib">
-  <img align="left" alt="Rafii Yuuki's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 📫 How to reach me **sulthan.raghib09@gmail.com**
 
-<br />
+- ⚡ Fun fact **I think I am Funny**
 
-### 🤩 Glad to see you here!
 
-- 🔭 I’m currently study on STT Terpadu Nurul Fikri
-- 🌱 I'm Currently still learning programming language
-- ⚡ Fun fact: I love U 😁
 
-### 🧰 Languages and Tools I've Learned :
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulthanraghib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulthan-raghib-fillah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sulthan.raghib09@gmail.com) 
 
-<div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SulthanRaghib&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SulthanRaghib&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
-<code><img height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
-<code><img height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></code>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SulthanRaghib&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRaghib&theme=outrun&layout=compact&hide" alt="Rafii Yuuki's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SulthanRaghib&show_icons=true&theme=outrun" alt="Rafii Yuuki's github stats"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=SulthanRaghib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### img profile
-<a href="https://github.com/SulthanRaghib"><img src="https://avatars.githubusercontent.com/u/92235855?s=96&v=4" width="40" height="40" alt="@SulthanRaghib" style="max-width:100%; "></a>
-
-<a href="https://github.com/SulthanRaghib">![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/92235855?s=96&v=4&h=40&w=40&fit=cover&mask=circle&maxage=7d
-)</a>
-<!--
-**SulthanRaghib/SulthanRaghib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
